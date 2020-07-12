@@ -1,0 +1,17 @@
+
+ *{box-sizing:border-box;margin:0px;padding:0px}
+
+
+.ss{width:500px; height: 250px}
+.tit {
+	color :#888;
+	font-family: Courier New;
+}
+ 
+ .fot{text-align: center ;}
+.sss{background:#191e22;color:#6a6e71;position: relative;bottom:-10px; }
+/*.dog {float:left;width:50%}
+.cat {float:right;width:50%;}*/
+.dog img {width:70%}
+.cat img {width:70%}
+.ff{width:40%}
